@@ -1,9 +1,0 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyANtZNewaFYxbSjy3iUrISN3HsY0pX7xEQ",
-  authDomain: "budgetbuddy-byrsmk.firebaseapp.com",
-  projectId: "budgetbuddy-byrsmk",
-  storageBucket: "budgetbuddy-byrsmk.firebasestorage.app",
-  messagingSenderId: "704470313558",
-  appId: "1:704470313558:web:6ff7c34abcf77396e329f7",
-  measurementId: "G-N93YF7DYPJ"
-};
